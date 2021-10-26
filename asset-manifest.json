@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-04-hooks-images/npm/static/css/main.a617e044.chunk.css",
-    "main.js": "/goit-react-hw-04-hooks-images/npm/static/js/main.4d84e452.chunk.js",
-    "main.js.map": "/goit-react-hw-04-hooks-images/npm/static/js/main.4d84e452.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-04-hooks-images/npm/static/js/runtime-main.2cbbaa1e.js",
-    "runtime-main.js.map": "/goit-react-hw-04-hooks-images/npm/static/js/runtime-main.2cbbaa1e.js.map",
-    "static/js/2.d86a372d.chunk.js": "/goit-react-hw-04-hooks-images/npm/static/js/2.d86a372d.chunk.js",
-    "static/js/2.d86a372d.chunk.js.map": "/goit-react-hw-04-hooks-images/npm/static/js/2.d86a372d.chunk.js.map",
-    "static/js/3.e3ce7569.chunk.js": "/goit-react-hw-04-hooks-images/npm/static/js/3.e3ce7569.chunk.js",
-    "static/js/3.e3ce7569.chunk.js.map": "/goit-react-hw-04-hooks-images/npm/static/js/3.e3ce7569.chunk.js.map",
-    "index.html": "/goit-react-hw-04-hooks-images/npm/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/goit-react-hw-04-hooks-images/npm/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.d86a372d.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-images/npm/static/js/2.d86a372d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/goit-react-hw-04-hooks-images/npm/static/media/logo.6ce24c58.svg"
+    "main.css": "/goit-react-hw-04-hooks-images/static/css/main.6bc91979.chunk.css",
+    "main.js": "/goit-react-hw-04-hooks-images/static/js/main.e1a73b75.chunk.js",
+    "main.js.map": "/goit-react-hw-04-hooks-images/static/js/main.e1a73b75.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-hooks-images/static/js/runtime-main.6443b71d.js",
+    "runtime-main.js.map": "/goit-react-hw-04-hooks-images/static/js/runtime-main.6443b71d.js.map",
+    "static/js/2.77722545.chunk.js": "/goit-react-hw-04-hooks-images/static/js/2.77722545.chunk.js",
+    "static/js/2.77722545.chunk.js.map": "/goit-react-hw-04-hooks-images/static/js/2.77722545.chunk.js.map",
+    "index.html": "/goit-react-hw-04-hooks-images/index.html",
+    "static/css/main.6bc91979.chunk.css.map": "/goit-react-hw-04-hooks-images/static/css/main.6bc91979.chunk.css.map",
+    "static/js/2.77722545.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-images/static/js/2.77722545.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cbbaa1e.js",
-    "static/js/2.d86a372d.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.4d84e452.chunk.js"
+    "static/js/runtime-main.6443b71d.js",
+    "static/js/2.77722545.chunk.js",
+    "static/css/main.6bc91979.chunk.css",
+    "static/js/main.e1a73b75.chunk.js"
   ]
 }
